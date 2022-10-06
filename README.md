@@ -10,6 +10,7 @@ A project-based Artificial Intelligence (AI) playground.
 * [Genetic Algorithm for Functional Maximum Problem](https://github.com/yanshengjia/artificial-intelligence/tree/master/genetic-algorithm-for-functional-maximum-problem)
 * [Million Queens](https://github.com/yanshengjia/artificial-intelligence/tree/master/million-queens)
 * [Neural Networks for Face Recognition](https://github.com/yanshengjia/artificial-intelligence/tree/master/neural-networks-for-face-recognition)
+* [Explore AI Projects & Libraries](https://kandi.openweaver.com/explore/artificial-intelligence) - Explore a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## Contribution
 
